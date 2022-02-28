@@ -1,3 +1,4 @@
+//Made by Sheliox#9116
 const ClientManager = require("./src/ClientManager");
 const client = new ClientManager({
   partials: ["MESSAGE", "CHANNEL", "REACTION"],
