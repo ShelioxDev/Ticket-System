@@ -1,3 +1,4 @@
+//Made by Sheliox#9116
 module.exports.config = {
   name: "ticket",
   description: "Permet de créer un panel.",
