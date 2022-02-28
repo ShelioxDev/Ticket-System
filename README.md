@@ -17,7 +17,7 @@
         <td style="text-align: center;"><a href="https://github.com/ShelioxDev/Ticket-System/tree/main/demo">Examples</a></td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="https://github.com/ShelioxDev/Ticket-System/">Code &amp; Docs</a></td>
+        <td style="text-align: center;"><a href="https://github.com/ShelioxDev/Ticket-System/">Code</a></td>
     </tr>
 </table>
 
