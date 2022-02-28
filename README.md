@@ -14,7 +14,7 @@
         </td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="demo/nodejs/">Examples</a></td>
+        <td style="text-align: center;"><a href="tree/main/demo">Examples</a></td>
     </tr>
     <tr>
         <td style="text-align: center;"><a href="source/js/">Code &amp; Docs</a></td>
