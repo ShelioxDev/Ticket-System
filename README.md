@@ -14,10 +14,10 @@
         </td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="tree/main/demo">Examples</a></td>
+        <td style="text-align: center;"><a href="https://github.com/ShelioxDev/Ticket-System/tree/main/demo">Examples</a></td>
     </tr>
     <tr>
-        <td style="text-align: center;"><a href="source/js/">Code &amp; Docs</a></td>
+        <td style="text-align: center;"><a href="https://github.com/ShelioxDev/Ticket-System/">Code &amp; Docs</a></td>
     </tr>
 </table>
 
