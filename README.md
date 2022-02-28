@@ -24,10 +24,10 @@
 ### Initialization
 
 Before initializing install the following modules :
-`discord.js` with the command ```npm i discord.js```.
-`fs` with the command ```npm i fs```.
-`sourcebin_js` with the command ```npm i sourcebin_js```.
-the ticket system launch your index file with ```node .```
+- `discord.js` with the command ```npm i discord.js```.
+- `fs` with the command ```npm i fs```.
+- `sourcebin_js` with the command ```npm i sourcebin_js```.
+- the ticket system launch your index file with ```node .```
 
 ### Overview
 
