@@ -1,3 +1,4 @@
+//Made by Sheliox#9116
 module.exports = async (client, interaction, msglimit) => {
   try {
     if (interaction.user.bot) return;
